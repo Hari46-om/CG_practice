@@ -1,0 +1,17 @@
+rm:
+
+> Removes a file only from your local working directory.
+> Git still sees the deletion as an unstaged change.
+> You need to run git add after rm to stage the deletion.
+
+git rm :
+
+>Removes a file from both the working directory and Git tracking.
+>The deletion is automatically staged for the next commit.
+>No need to run git add; it's already staged.
+
+-Common situations where git rm is used:
+
+* Delete a file that is no longer needed in the project.
+* Remove a file and include its deletion in the next commit.
+* Remove a tracked file from both your computer and the Git repository.
