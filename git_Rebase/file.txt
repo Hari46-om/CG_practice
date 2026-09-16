@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii
+=======
+hello
+>>>>>>> 699fae0 (added)
