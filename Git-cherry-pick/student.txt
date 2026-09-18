@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-University Management system
-name : Amit
-=======
 student management system
 Name : Rahul
->>>>>>> 276a469 (added name to student.txt - C commit)
